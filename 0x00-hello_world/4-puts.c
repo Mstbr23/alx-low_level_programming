@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /* use of  function puts, return =0 */
 
 int main(void)
