@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - A c small program 
- * return (1)
+ * main - A c small program that prints exactly a given line  
+ * return (1),succss
  */
 int main(void)
 {
