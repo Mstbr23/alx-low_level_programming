@@ -1,5 +1,8 @@
 #include <stdio.h>
-/* use of  function puts, return =0 */
+/**
+ * main - main block
+ *  return: 0
+ */
 
 int main(void)
 { 
