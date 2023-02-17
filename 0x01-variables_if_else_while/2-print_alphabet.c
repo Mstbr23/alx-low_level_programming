@@ -7,9 +7,12 @@
 int main(void)
 {
 	char cc;
+
 	cc = 'a';
+
 	while
-		(cc <= 'z'){
+		(cc <= 'z')
+		{
 			putchar(cc);
 			cc++;
 		}
