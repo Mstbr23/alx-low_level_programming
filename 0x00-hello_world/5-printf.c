@@ -2,7 +2,7 @@
 /**
  * main - main entry point
  * Description: 'a C program that prints using only printf'
- * return: 0 (success)
+ * return: Always  0 (success)
  */
 int main(void)
 {
