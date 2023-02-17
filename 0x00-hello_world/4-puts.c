@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - main entry point
- * return: 0 (success)
+ * Dsecription: 'a C program that prints an exact line'
+ * Return: 0 (success)
  */
 int main(void)
 {
