@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - main entry point
- * Description: 'a C program that prints using only printf'
- * return: Always  0 (success)
+ * main - Entry point
+ * Description: 'a C program that print a specific text'
+ * Return: Always  0 (Success)
  */
 int main(void)
 {
