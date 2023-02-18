@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
   * main - Entry point
-  * Description: 'a C program that print a specific text'
+  * Description: 'a C program that print a digit combinations'
   * Return: Always  0 (Success)
   */
 int main(void)
