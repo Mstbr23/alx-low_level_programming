@@ -1,12 +1,12 @@
 #include "main.h"
-void _puts(char *str)
 /**
  * main - Entry point
+ * @str: char to show.
  * Return: Always 0 (Success)
  */
-int main(void)
+int _puts(char *str)
 {
-	char str = "\"Programming is like building a multilingual puzzle";
+	str = "\"Programming is like building a multilingual puzzle";
 	_puts(str);
 	return (0);
 }
