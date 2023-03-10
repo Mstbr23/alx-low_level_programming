@@ -1,15 +1,15 @@
 #include "main.h"
 /**
 * _strstr - Entry point
-* @hstack: input
+* @hsk: input
 * @needle: input
 * Return: Always 0 (Success)
 */
-char *_strstr(char *haystack, char *needle)
+char *_strstr(char *hsk, char *needle)
 {
-for (; *hstack != '\0'; htack++)
+for (; *hsk != '\0'; hsk++)
 {
-char *l = hstack;
+char *l = hsk;
 char *p = needle;
 
 while (*l == *p && *p != '\0')
@@ -18,7 +18,7 @@ l++;
 p++;
 }
 if (*p == '\0')
-return (hstack);
+return (hsk);
 }
 return (0);
 }
