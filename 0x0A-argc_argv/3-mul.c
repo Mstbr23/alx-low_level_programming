@@ -59,8 +59,7 @@ return (1);
 }
 num1 = _atoi(arg2[1]);
 num2 = _atoi(arg2[2]);
-result = num1 * num2;
-
+result = num1*num2;
 printf("%d\n", result);
 return (0);
 }
